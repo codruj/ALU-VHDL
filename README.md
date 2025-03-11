@@ -61,4 +61,4 @@ This project involves designing a **high-performance Arithmetic Logic Unit (ALU)
 ---
 📌 **Potential Enhancements**: Optimizing power consumption, integrating additional bitwise operations, and refining memory management for greater efficiency.
 
-[Further Details](https://github.com/your-username/robot-avoiding-obstacles/robot-documentation.pdf)
+[Further Details](https://github.com/your-username/ALU-VHDL/ALU-Design-Documentation.pdf)
